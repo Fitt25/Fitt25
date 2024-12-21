@@ -1,7 +1,7 @@
 
 ![Beige Feminine Personal LinkedIn Banner (2)](https://github.com/user-attachments/assets/b0824db7-0d86-48f1-af78-b284ca307769)
 
-## `Hi, I'm **Linda**!` 👋
+## **`Hi, I'm Linda!`** 👋
 **Aspiring Software Developer** | **Determined Problem-Solver** | **Nature Lover** 🌿✨  
 
 ## 🌟 **A Bit About Me**  
