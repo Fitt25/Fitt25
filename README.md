@@ -2,7 +2,7 @@
 ![Beige Feminine Personal LinkedIn Banner (2)](https://github.com/user-attachments/assets/b0824db7-0d86-48f1-af78-b284ca307769)
 
 ## **`Hi, I'm Linda!`** 👋
-**Aspiring Software Developer** | **Determined Problem-Solver** | **Nature Lover** 🌿✨  
+**Software Developer** | **Determined Problem-Solver** | **Nature Lover** 🌿✨  
 
 ## 🌟 **A Bit About Me**  
 I’m on a journey to becoming a software developer, fueled by my love for problem-solving and technology. Through self-study and the Year Up program, I’ve been diving deep into **Java, Python, HTML, CSS, JavaScript, and C#**, constantly embracing new challenges as opportunities to grow. I’m particularly drawn to the **logic** behind coding—the thrill of **solving problems** and the **creativity** involved in crafting efficient solutions. Being a software developer allows me to combine my love for logical thinking with my desire to create something meaningful. I’m excited to continue my journey with a mindset that drives me to push boundaries and keep improving.
